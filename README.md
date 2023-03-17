@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Redux Counter App 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Untitled](./src/ScreenRecorderProject9.gif).
 
 ## Available Scripts
 
